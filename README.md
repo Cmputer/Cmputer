@@ -42,7 +42,7 @@ To help you get started with using GitHub and setting up your terminal for versi
 ## Collaboration and Beyond 🤝
 GitHub offers advanced features for collaboration, such as branching, pull requests, and code reviews. As you become more comfortable with the platform, don't hesitate to explore these features and expand your coding skills.
 
-You're now equipped with the basics of using GitHub and creating repositories. Remember, GitHub is not only about code; it's also about connecting with a community of passionate developers. Reach out for help, share your knowledge, and enjoy your coding journey! 🎉👩‍💻👨‍💻
+You're now equipped with the basics of using GitHub and creating repositories. Remember, GitHub is not only about code; it's also about connecting with a community of passionate developers. Reach out for help, share your knowledge, and enjoy your coding journey! 🎉👩‍💻
 
 <!--
 **Cmputer/Cmputer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
