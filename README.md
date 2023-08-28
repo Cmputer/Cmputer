@@ -6,6 +6,11 @@
 ### What is GitHub? 🌐
 #### GitHub is a platform that provides a collaborative environment for developers to work on projects together, share code, and track changes. It's a valuable tool for showcasing your coding skills and collaborating on projects with fellow developers.
 
+## Presented Languages ⚙️
+<br>
+  <p align = "center">
+    <img align="center" alt="Cam Puter's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmputer&langs_count=12&card_width=1000&layout=compact&theme=algolia"/>
+
 ## Creating a Repository 🏗
 #### Step 1: Sign in or Sign up 🛠️
 If you haven't already, sign in to your GitHub account or create a new one. If you're a student at Appalachian State University, you're in the right place!
