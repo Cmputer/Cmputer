@@ -9,7 +9,7 @@
 ## Presented Languages ⚙️
 <br>
   <p align = "center">
-    <img align="center" alt="Cam Puter's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmputer&langs_count=12&card_width=1000&layout=compact&theme=algolia"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cmputer=anuraghazra&layout=compact)
 
 ## Creating a Repository 🏗
 #### Step 1: Sign in or Sign up 🛠️
